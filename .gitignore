@@ -1,0 +1,6 @@
+logs/*
+dataset.h5
+extensions/chamfer_dist/*/*
+extensions/dcd/metrics/CD/chamfer3D/build/*
+extensions/dcd/metrics/CD/chamfer3D/chamfer_3D.egg-info/*
+*.ipynb

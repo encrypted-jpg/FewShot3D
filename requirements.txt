@@ -1,0 +1,9 @@
+open3d-python
+h5py
+open3d
+tensorboardx
+visdom
+numpy
+matplotlib
+opencv-python
+ninja
