@@ -2,6 +2,7 @@ logs/*
 dataset.h5
 extensions/chamfer_dist/*/*
 *.ipynb
+wandb/*
 
 *.png
 *.jpg
